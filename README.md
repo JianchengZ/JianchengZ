@@ -1,6 +1,6 @@
-## Hi I am Jiancheng Zhang 👋
+# Hi I am Jiancheng Zhang 👋
 
-# About ME
+## About ME
 
 - 🔭 I’m currently diving into machine learning
 - 🌱 I’m a current PhD student in UCRiverside
