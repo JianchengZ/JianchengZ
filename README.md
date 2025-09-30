@@ -2,7 +2,7 @@
 
 # About ME
 
-- 🔭 I’m currently diving into active learning and multimodal models.
+- 🔭 I’m currently diving into active learning, large language models, and multimodal models.
 - 🌱 I’m a current PhD student in [UCRiverside](https://www.ucr.edu/)
 - 📫 How to reach me: Email jzhan745@ucr.edu
   
